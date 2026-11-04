@@ -81,7 +81,7 @@ Por favor cite el dataset y el reporte como se muestra
   note         = {Vicerrectoria de Enseñanza},
   url          = {https://udesanalitica.github.io/Alerta1_Cx_2025-2/},
   type         = {Informe técnico}
-  doi          = {https://doi.org/10.5281/zenodo.xxxxxxx}
+  doi          = {https://doi.org/10.5281/zenodo.17177308}
 }
 ```
 
@@ -112,6 +112,6 @@ Puedes: Contactar a través del correo institucional: analitica.academica@udes.e
 Las contribuciones son siempre bienvenidas. Puedes clonar, bifurcar o enviar pull requests desde el repositorio principal: ## https://github.com/AnaliticaUDES/Alerta1_Cx_2025-2
 
 ## doi
-https://doi.org/10.5281/zenodo.xxxxxxx
+https://doi.org/10.5281/zenodo.17177308
 
 ¡Gracias por su interés!
